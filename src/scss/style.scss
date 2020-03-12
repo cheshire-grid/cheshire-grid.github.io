@@ -13,12 +13,7 @@
     }
 
     & > .row {
-      width: 100%;
       height: 100%;
-      @media screen and (max-width: 855px) {
-        margin-right: 0;
-        margin-left: 0;
-      }
 
       &  .grid__block {
         width: 100%;
